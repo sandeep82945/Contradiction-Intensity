@@ -129,7 +129,7 @@ For training and inference, data must be in a `.jsonl` format following the Llam
 ```
 
 * **System/User Role**: Includes the expert persona, detailed task instructions, the scoring rubric, and the raw reviews.
-* 
+
 **Assistant Role**: Contains the structured JSON list of identified contradictions.
 
 
