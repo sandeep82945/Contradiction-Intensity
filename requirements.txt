@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+trl
+peft
+accelerate
+bitsandbytes
+scipy
+numpy
+rouge_score
+scikit-learn
+tqdm
+openai
+google-genai
+groq
