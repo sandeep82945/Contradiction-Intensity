@@ -8,18 +8,6 @@ The repository contains the code for our structured multi-agent framework **IMPA
 
 ---
 
-## 🌐 Live Demo & Testing
-
-We provide a web-based interface for you to test or check our IMPACT framework in real-time. You can explore the system's capabilities using the demo link below:
-
-* 
-**Demo Website**: [https://peer-review-ai-contradiction-detector.hf.space/](https://peer-review-ai-contradiction-detector.hf.space/) 
-
-
-* **Sample Inputs**: Ready-to-use sample real review inputs for the demo have been added to the `Data/` folder.
-
----
-
 ## Getting Started
 
 ### Step 1: Install Dependencies
